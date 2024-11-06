@@ -43,7 +43,7 @@ public class User implements UserDetails {
     @Column(name = "correo", length = 50, nullable = false)
     private String email;
 
-    @Column(name = "password", length = 12, nullable = false)
+    @Column(name = "password", nullable = false)
     private String password;
 
     @Column(name = "telefono", length = 50, nullable = false)
