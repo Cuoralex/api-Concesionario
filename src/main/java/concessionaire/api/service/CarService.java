@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 import concessionaire.api.model.Brand;
 import concessionaire.api.model.Car;
-import concessionaire.api.model.City;
 import concessionaire.api.model.Color;
 import concessionaire.api.model.Range;
 import concessionaire.api.repository.BrandRepository;
